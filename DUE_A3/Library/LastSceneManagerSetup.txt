@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Junyi_Liu/1_Scenes/Scene/1_Junyi_Liu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
