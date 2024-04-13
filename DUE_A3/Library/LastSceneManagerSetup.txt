@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Junyi_Liu/1_Scenes/Scene/1_Junyi_Liu.unity
+- path: Assets/Zesheng_Su/Thanks_Scenes/Thanks_Zesheng Su.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
