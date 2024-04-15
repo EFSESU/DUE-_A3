@@ -6,21 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Junyi_Liu/Menu_Scenes/Menu.unity
-    guid: 7769f33fb4fa2e5458344a36556ad760
+    path: Assets/Scenes/0.unity
+    guid: f61478ccd37ba4246934fac7853b525a
   - enabled: 1
-    path: Assets/Junyi_Liu/1_Scenes/Scene/1_Junyi_Liu.unity
-    guid: 42a7af0d94df61b438f5805a2af4e3ff
+    path: Assets/Scenes/1.unity
+    guid: 5f66713930f36f84a865122d99889d76
   - enabled: 1
-    path: Assets/Zhibo_Liu/2_Sence/1_Scenes/Scene/2_Zhibo Liu.unity
-    guid: 9c2d41582e7c34148b7ac77d99524055
+    path: Assets/Scenes/2.unity
+    guid: b74189b32fc383a4ea1d79e48e3f2e31
   - enabled: 1
-    path: Assets/Zesheng_Su/3_Sence/3_Scenes/Scene/3_Zesheng Su.unity
-    guid: 61dad3ab021ab9b46a8c0665e4500202
+    path: Assets/Scenes/3.unity
+    guid: 5e7af4bd95ac53a4cb784a9eedf8f6f9
   - enabled: 1
-    path: Assets/Zesheng_Su/Thanks_Scenes/Thanks_Zesheng Su.unity
-    guid: d9b95231668a18444adc2d4dc94a6d46
-  - enabled: 1
-    path: Assets/Zhibo_Liu/help/help_sence.unity
-    guid: 5c11a0dd11ae2334cae1c4684426ddcf
+    path: Assets/Scenes/4.unity
+    guid: 3014ad341e8200a488b44f1d3eb294f8
   m_configObjects: {}
